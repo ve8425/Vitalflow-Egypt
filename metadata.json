@@ -1,0 +1,6 @@
+{
+  "name": "VitalFlow - Blood Donation Awareness",
+  "description": "An interactive blood donation awareness campaign featuring mind-opening blood facts, a myth-busting quiz, the journey of donated blood infographic, patient stories, and shareable awareness cards for social media.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
